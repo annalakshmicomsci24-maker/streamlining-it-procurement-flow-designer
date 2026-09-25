@@ -50,3 +50,11 @@ The project demonstration video should include:
 The completed video should be uploaded to Google Drive with access set to:
 
 **Anyone with the link can view**
+
+## Demo Video Link
+
+Google Drive Demo Video:  
+
+https://drive.google.com/file/d/1qEhwqfx4qGjMiRlBdKtNHWRpJ14pAmtw/view?usp=drive_link
+
+Access: Anyone with the link can view
