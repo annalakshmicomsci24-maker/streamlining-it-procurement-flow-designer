@@ -47,8 +47,6 @@ The project demonstration video should include:
 - Screen sharing
 - Voice-over
 
-The completed video should be uploaded to Google Drive with access 
-
 ## Demo Video Link
 
 Google Drive Demo Video:  
